@@ -1,53 +1,46 @@
-# Sridipa Dandapat  
+# Sridipa Dandapat
 
-Literary Scholar | PhD, IIT Patna  
-Transitioning into Digital Humanities & Scholarly Text Encoding  
-
-I work at the intersection of literature and structured text.  
-Currently developing skills in TEI P5, XSLT, and RDF to build digital scholarly editions and interoperable research outputs.
-
-My recent work includes encoding selections from Voltaire’s *Candide* using TEI and transforming them into HTML and RDF formats.
+PhD, IIT Patna · Literary Scholar · Digital Humanities  
+[linkedin.com/in/sridipa-dandapat](https://linkedin.com/in/sridipa-dandapat) · [orcid.org/0000-0002-3788-7210](https://orcid.org/0000-0002-3788-7210)
 
 ---
 
-## 🔧 Technical Skills (Developing)
-
-- TEI P5 (text encoding)
-- XML
-- XSLT 2.0 (basic transformations)
-- RDF/XML (introductory metadata modelling)
-- Git (version control basics)
+I work at the intersection of textual scholarship and digital humanities.  
+Currently developing expertise in TEI P5, XSLT, and RDF to build digital scholarly editions and interoperable research outputs.
 
 ---
 
-## 📚 Featured Project  
+## Technical Skills
 
-### TEI Voltaire – *Candide* Encoding Project  
-
-A practice digital edition project exploring:
-- Structural and semantic TEI encoding  
-- XSLT-based HTML output  
-- RDF metadata extraction  
-
-🔗 Repository: https://github.com/sridipa/tei-voltaire  
+| Area | Tools & Standards |
+|------|------------------|
+| Text Encoding | TEI P5, XML |
+| Transformation | XSLT 2.0, XPath |
+| Metadata | RDF/XML, Dublin Core |
+| Tooling | oXygen XML Editor, Git, VS Code |
 
 ---
 
-## 📖 Research Background  
- 
-- Textual scholarship  
-- Digital humanities  
-- Scholarly metadata  
+## Featured Project
+
+**TEI Voltaire — Candide Encoding Project**  
+A practice digital edition exploring structural and semantic TEI encoding, XSLT-based HTML output, and RDF metadata extraction.  
+→ [github.com/sridipa/tei-voltaire](https://github.com/sridipa/tei-voltaire)
 
 ---
 
-## 🌱 Currently Learning  
+## Research Background
 
-- SPARQL  
-- TEI customization (ODD)  
-- XSLT 3.0  
-- Linked Open Data concepts  
+PhD research at IIT Patna in gender studies, children's literature, and multimodal analysis of digital text archives.  
+Executive Editor, *International Research in Children's Literature* (Edinburgh University Press).  
+Visiting Fellow in Digital Humanities, TU Darmstadt (2025).
 
 ---
 
-Open to collaboration and entry-level roles in Digital Humanities and scholarly editing.
+## Currently Learning
+
+TEI customisation (ODD) · XSLT 3.0 · SPARQL · Linked Open Data
+
+---
+
+Open to collaboration and roles in digital humanities and scholarly text editing.
