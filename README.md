@@ -10,6 +10,6 @@ Experienced in TEI encoding, XSLT transformations, and RDF metadata for scholarl
 ## Featured Projects  
 - [tei-voltaire](https://github.com/sridipa/tei-voltaire): TEI *Candide* with XSLT HTML/RDF outputs  
 - ORCID: [0000-0002-3788-7210](https://orcid.org/0000-0002-3788-7210)  
-- CV: [Sridipa_CV_PostLearning.docx](https://github.com/sridipa/tei-voltaire/blob/main/Sridipa_CV_PostLearning.docx)  
+- CV: [Sridipa_CV.docx](https://docs.google.com/document/d/1Nf_ujFeznzATxN90Bus72CURNGWfDq9g/edit?usp=drive_link&ouid=106662136698173975447&rtpof=true&sd=true)  
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sridipa)
