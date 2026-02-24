@@ -35,4 +35,4 @@ Voltaire's *Candide* with XSLT → HTML output and Dublin Core RDF metadata extr
 
 - ORCID [0000-0002-3788-7210](https://orcid.org/0000-0002-3788-7210)
 - LinkedIn [linkedin.com/in/sridipa-dandapat](https://linkedin.com/in/sridipa-dandapat)
-- CV [Download](https://github.com/sridipa/CV/raw/main/Sridipa_dandapaT_CV.pdf)
+- CV [Download](https://github.com/sridipa/cv/raw/main/Sridipa_CV.pdf)
