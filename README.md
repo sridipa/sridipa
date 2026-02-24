@@ -1,15 +1,53 @@
 # Sridipa Dandapat  
-Digital Humanities Scholar | TEI/XML, XSLT & RDF Specialist | PhD IIT Patna  
 
-Experienced in TEI encoding, XSLT transformations, and RDF metadata for scholarly editions like Voltaire's *Candide*. Portfolio for Oxford University Enlightenment Library (OUEL) applications.
+Literary Scholar | PhD, IIT Patna  
+Transitioning into Digital Humanities & Scholarly Text Encoding  
 
-[![TEI](https://img.shields.io/badge/TEI-P5-blue?logo=xml&logoColor=white)](https://tei-c.org/)  
-[![XSLT](https://img.shields.io/badge/XSLT-2.0-orange?logo=xslt&logoColor=white)](https://www.w3.org/TR/xslt-20/)  
-[![RDF](https://img.shields.io/badge/RDF-XML-green?logo=xml&logoColor=white)](https://www.w3.org/TR/rdf-syntax-grammar/)  
+I work at the intersection of literature and structured text.  
+Currently developing skills in TEI P5, XSLT, and RDF to build digital scholarly editions and interoperable research outputs.
 
-## Featured Projects  
-- [tei-voltaire](https://github.com/sridipa/tei-voltaire): TEI *Candide* with XSLT HTML/RDF outputs  
-- ORCID: [0000-0002-3788-7210](https://orcid.org/0000-0002-3788-7210)  
-- CV: [Sridipa_CV.docx](https://docs.google.com/document/d/1Nf_ujFeznzATxN90Bus72CURNGWfDq9g/edit?usp=drive_link&ouid=106662136698173975447&rtpof=true&sd=true)  
+My recent work includes encoding selections from Voltaire’s *Candide* using TEI and transforming them into HTML and RDF formats.
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sridipa)
+---
+
+## 🔧 Technical Skills (Developing)
+
+- TEI P5 (text encoding)
+- XML
+- XSLT 2.0 (basic transformations)
+- RDF/XML (introductory metadata modelling)
+- Git (version control basics)
+
+---
+
+## 📚 Featured Project  
+
+### TEI Voltaire – *Candide* Encoding Project  
+
+A practice digital edition project exploring:
+- Structural and semantic TEI encoding  
+- XSLT-based HTML output  
+- RDF metadata extraction  
+
+🔗 Repository: https://github.com/sridipa/tei-voltaire  
+
+---
+
+## 📖 Research Background  
+ 
+- Textual scholarship  
+- Digital humanities  
+- Scholarly metadata  
+
+---
+
+## 🌱 Currently Learning  
+
+- SPARQL  
+- TEI customization (ODD)  
+- XSLT 3.0  
+- Linked Open Data concepts  
+
+---
+
+Open to collaboration and entry-level roles in Digital Humanities and scholarly editing.
