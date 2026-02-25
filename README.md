@@ -1,11 +1,9 @@
 # Sridipa Dandapat
 
-**Digital Humanities Scholar · TEI/XML · XSLT · RDF**  
-PhD, Indian Institute of Technology Patna
+**Digital Humanities Scholar · Multimodal Analysis · Scholarly Text Encoding · Gender Studies**  
+PhD, Indian Institute of Technology Patna · Executive Editor, Edinburgh University Press
 
-Researcher and editorial professional working at the intersection of literary 
-scholarship and digital text encoding. Currently developing a portfolio of 
-TEI-encoded scholarly editions, XSLT transformations, and RDF metadata pipelines.
+Researcher and editorial professional working at the intersection of literary scholarship and digital humanities. My work spans TEI-encoded scholarly editions, XSLT transformation pipelines, and RDF metadata resources on one hand, and multimodal and computational analysis of digital children's literature archives from the Global South on the other. I am interested in how digital infrastructure shapes access to knowledge, across Enlightenment studies, gender studies, and postcolonial children's literature.
 
 [![TEI](https://img.shields.io/badge/TEI-P5-blue)](https://tei-c.org/)
 [![XSLT](https://img.shields.io/badge/XSLT-2.0-orange)](https://www.w3.org/TR/xslt-20/)
