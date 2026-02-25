@@ -16,6 +16,9 @@ TEI-encoded scholarly editions, XSLT transformations, and RDF metadata pipelines
 
 ## Featured Project
 
+**[dh-storyweaver](https://github.com/sridipa/dh-storyweaver)** — Multimodal analysis of gender and STEAM representation in Global South picturebook archive, StoryWeaver. 
+Conducted during the Future Talent Visiting Fellowship, TU Darmstadt (Oct, 2025).
+
 **[tei-voltaire](https://github.com/sridipa/tei-voltaire)** — TEI P5 encoding of 
 Voltaire's *Candide* with XSLT → HTML output and Dublin Core RDF metadata extraction.
 
