@@ -24,7 +24,7 @@ Voltaire's *Candide* with XSLT → HTML output and Dublin Core RDF metadata extr
 
 ## Research & Editorial
 
-- Executive Editor, *International Research in Children's Literature* 
+- [Executive Editor](https://www.euppublishing.com/doi/epdf/10.3366/ircl.2025.0629), *International Research in Children's Literature* 
   (Edinburgh University Press)
 - Visiting Fellow in Digital Humanities, TU Darmstadt (Oct 2025)
 - Peer Reviewer — Springer · Elsevier
